@@ -24,11 +24,7 @@ router.get('/:user_id', async (req, res) => {
 });
 
 // POST a new user:
-// // example data
-// {
-//   "username": "lernantino",
-//   "email": "lernantino@gmail.com"
-// }
+
 
 
 router.post('/', async (req, res) => {
