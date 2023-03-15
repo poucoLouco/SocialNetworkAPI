@@ -1,4 +1,4 @@
-const { Thought } = require("../../model");
+const { Thought } = require("../../models");
 const router = require("express").Router();
 
 // /api/thoughts
